@@ -1,0 +1,15 @@
+torch
+torchvision
+tensorflow
+nilearn
+pyyaml
+matplotlib
+scikit-learn
+numpy
+scipy
+h5py
+pandas
+seaborn
+tensorboard
+scikit-image
+opencv-python
